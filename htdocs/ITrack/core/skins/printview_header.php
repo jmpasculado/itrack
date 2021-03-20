@@ -1,0 +1,8 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD Xhtml 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html>
+<head>
+    <title> ITrack - Powered by Cobalt</title>
+    <link href="/ITrack/css/report.css" rel="stylesheet" type="text/css">
+    <meta http-equiv="content-type" content="text/html; charset=<?php echo MULTI_BYTE_ENCODING; ?>" />
+</head>
+<body>
